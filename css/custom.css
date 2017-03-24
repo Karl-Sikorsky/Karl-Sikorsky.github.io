@@ -430,6 +430,13 @@ img::-moz-selection {
 .bg-primary {
     background-color: yellowgreen;
 }
+.table-container
+{
+  width: 100%;
+  overflow-y: auto;
+  overflow: auto;
+  margin: 0 0 1em;
+}
 table {
   
   border-collapse: collapse;
